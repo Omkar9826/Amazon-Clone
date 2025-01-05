@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+}
+p {
+    color: rgb(63, 99, 111);
+}
+button{
+    color: white;
+}
+body{
+    background-color: rgb(34, 196, 142);
+}
+button{
+    background-color: rgb(191, 34, 25);
+}
+#heading1
+{
+    color: yellow;
+}
+#heading2
+{
+    color: magenta;
+}
+.ok{
+    color: chocolate;
+}

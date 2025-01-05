@@ -1,0 +1,21 @@
+#red{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: red;
+}
+#green{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: green;
+}
+#yellow{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: yellow;
+}
